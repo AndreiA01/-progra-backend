@@ -1,4 +1,5 @@
+echo off
 cd..
-echo "################################" >> github.log
-echo %date% %time% >> github.log
-git pull origin >> github.log
+echo ################################ >> github.txt
+echo %date% %time% >> github.txt
+git pull origin >> github.txt
