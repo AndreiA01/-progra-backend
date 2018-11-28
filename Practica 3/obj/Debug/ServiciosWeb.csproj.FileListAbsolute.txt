@@ -1,0 +1,96 @@
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\csc.exe
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\System.Collections.Immutable.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\System.Reflection.Metadata.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\vbc.exe
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe.config
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll.config
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.pdb
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\AccesoADatos.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Logica.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\EntityFramework.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Datos.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\AccesoADatos.pdb
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Logica.pdb
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.xml
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\EntityFramework.xml
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\bin\Datos.pdb
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+d:\documents\visual studio 2015\Projects\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\csc.exe
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\vbc.exe
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll.config
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.pdb
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Logica.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Datos.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.pdb
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.dll.config
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Logica.pdb
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.xml
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\bin\Datos.pdb
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csprojAssemblyReference.cache
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csproj.CopyComplete
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+C:\Users\Administrador.WIN-PG9Q1IRECR5\source\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\csc.exe
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\vbc.exe
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll.config
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\ServiciosWeb.pdb
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Logica.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Datos.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.pdb
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\AccesoADatos.dll.config
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Logica.pdb
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\EntityFramework.xml
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\bin\Datos.pdb
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csprojAssemblyReference.cache
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.csproj.CopyComplete
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+C:\Users\andre\Documents\repos\Ejemplo1\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
