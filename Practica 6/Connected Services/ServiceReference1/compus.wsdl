@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SeleccionarCompusMantenimientos">
+        <s:complexType />
+      </s:element>
+      <s:element name="SeleccionarCompusMantenimientosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SeleccionarCompusMantenimientosResult" type="tns:ArrayOfComputadoras" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfComputadoras">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="computadoras" nillable="true" type="tns:computadoras" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="computadoras">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="id_co" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="titulo_co" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="fecha_co" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="detalle_co" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="foto_co" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="mantenimientos" type="tns:ArrayOfMantenimientos" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfMantenimientos">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="mantenimientos" nillable="true" type="tns:mantenimientos" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="mantenimientos">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="id_ma" type="s:long" />
+          <s:element minOccurs="1" maxOccurs="1" name="id_co" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="fecha_ma" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="detalle_ma" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="reparacion_ma" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="estado_ma" nillable="true" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="computadoras" type="tns:computadoras" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SeleccionarCompusMantenimientosSoapIn">
+    <wsdl:part name="parameters" element="tns:SeleccionarCompusMantenimientos" />
+  </wsdl:message>
+  <wsdl:message name="SeleccionarCompusMantenimientosSoapOut">
+    <wsdl:part name="parameters" element="tns:SeleccionarCompusMantenimientosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="compusSoap">
+    <wsdl:operation name="SeleccionarCompusMantenimientos">
+      <wsdl:input message="tns:SeleccionarCompusMantenimientosSoapIn" />
+      <wsdl:output message="tns:SeleccionarCompusMantenimientosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="compusSoap" type="tns:compusSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SeleccionarCompusMantenimientos">
+      <soap:operation soapAction="http://tempuri.org/SeleccionarCompusMantenimientos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="compusSoap12" type="tns:compusSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SeleccionarCompusMantenimientos">
+      <soap12:operation soapAction="http://tempuri.org/SeleccionarCompusMantenimientos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="compus">
+    <wsdl:port name="compusSoap" binding="tns:compusSoap">
+      <soap:address location="http://localhost:7258/compus.asmx" />
+    </wsdl:port>
+    <wsdl:port name="compusSoap12" binding="tns:compusSoap12">
+      <soap12:address location="http://localhost:7258/compus.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
