@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Aceso" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Aceso" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfpersonas">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="personas" nillable="true" type="tns:personas" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfpersonas" nillable="true" type="tns:ArrayOfpersonas" />
+  <xs:complexType name="personas">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="bio_pe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="dni_pe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="email_pe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fecha_pe" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="foto_pe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="id_pe" type="xs:long" />
+      <xs:element minOccurs="0" name="nombres_pe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="web_pe" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="personas" nillable="true" type="tns:personas" />
+</xs:schema>
